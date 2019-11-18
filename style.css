@@ -15,8 +15,13 @@ body {
     background-color: rgb(27, 27, 27);
     margin: 10px 10px;
 }
-.big {
+.up {
     flex: 1;
+    height: 300px;
+}
+.down {
+    flex: 1;
+    
 }
 .logo {
     margin-right: auto;
