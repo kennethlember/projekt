@@ -21,7 +21,7 @@ body {
 }
 .down {
     flex: 1;
-    
+    flex-wrap: wrap;
 }
 .logo {
     margin-right: auto;
